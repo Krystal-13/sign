@@ -8,7 +8,6 @@ com.isuisu.sign
 ├── dto
 ├── mapper
 ├── model
-├── exception
 ├── repository
 ├── security
 └── service
@@ -16,7 +15,8 @@ com.isuisu.sign
 
 ## Endpoint
 `POST` /api/signup   
-`POST` /api/signin
+`POST` /api/signin  
+`GET`  /api/me
 
 ## Table
 ### users
